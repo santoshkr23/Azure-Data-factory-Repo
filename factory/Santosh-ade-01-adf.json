@@ -1,0 +1,9 @@
+{
+	"name": "Santosh-ade-01-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2cb766e-1b7d-47d1-8e8e-c14c83e5f9cc",
+		"tenantId": "5ae9a11d-8e5f-4c31-bb80-d58c8d3c95c3"
+	}
+}
